@@ -13,7 +13,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+56_9_3750_1787-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/56937501787)
 [![Email](https://img.shields.io/badge/Email-davidtorcats1@gmail.com-black?style=flat-square&logo=gmail)](mailto:davidtorcats1@gmail.com)
-[![NexiaCoreIA](https://www.nexiacoreia.cl/)
+[![NexiaCoreIA](https://img.shields.io/badge/Agencia-NexiaCoreIA-0A0A0A?style=flat-square)](https://www.nexiacoreia.cl/)
 [![Chile](https://img.shields.io/badge/Ubicación-Puerto_Montt,_Chile-red?style=flat-square)]()
 
 </div>
